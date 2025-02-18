@@ -32,8 +32,8 @@ Ce projet vous permet de :
 1. **Cloner le repository**
 
    ```bash
-   git clone <URL_DU_REPOSITORY>
-   cd mon-projet-mongoose
+   git clone git@github.com:IIIDei/API-Mongoose.git
+   cd API-Mongoose
    ```
 
 2. **Installer les dépendances**
