@@ -210,3 +210,15 @@ mongoose.set('strictQuery', false);
   ```bash
   npm audit fix
   ```
+
+
+## Collection Postman
+
+L'export de la collection Postman contenant l'ensemble des requêtes de test se trouve dans le dossier `postman` sous le nom `collection_api_mongoose.json`.
+
+Pour importer cette collection dans Postman :
+
+1. Ouvrez Postman.
+2. Cliquez sur **"Import"** en haut à gauche.
+3. Sélectionnez le fichier `collection_api_mongoose.json` depuis le dossier `postman`.
+4. La collection "API Mongoose" sera ajoutée à vos collections, vous permettant de tester toutes les routes de l'API.
